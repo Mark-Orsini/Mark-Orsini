@@ -1,7 +1,7 @@
 <div style="background-color: black; padding: 10px; border-radius: 5px;">
-  <h1 align="center"><span style="color:Green">Hello, i'm Mark</span></h1>
+  <h1 align="center">Hello, i'm Mark</h1>
   ---
-  <h3 align="center"><span style="color:Red">I am currently studying computer science.</span></h3>
+  <h3 align="center">>I am currently studying computer science.</h3>
 </div>
 
 <!---

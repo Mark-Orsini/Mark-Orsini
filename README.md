@@ -4,8 +4,6 @@
   <h3 align="center">>I am currently studying computer science.</h3>
 </div>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Mark.Orsini&theme=darkhub&row=2&column=3&no-bg=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Orsini&layout=donut&langs_count=10)
 
 <!-- Tema oscuro -->

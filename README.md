@@ -1,6 +1,6 @@
 <div style="background-color: black; padding: 10px; border-radius: 5px;">
   <h1 align="center">Hello, i'm Mark</h1>
----
+
   <h3 align="center">>I am currently studying computer science.</h3>
 </div>
 

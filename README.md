@@ -1,4 +1,4 @@
-# Hello, i'm Mark
+# Hello, i'm <span style="color:green">Mark</span>
 ---
 ## I am currently studying computer science.
 ---

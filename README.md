@@ -1,11 +1,7 @@
-# Hello, i'm <span style="color:green">Mark</span>
----
-## I am currently studying computer science.
----
-
 <div style="background-color: black; padding: 10px; border-radius: 5px;">
-  <p align="center"><span style="color:red">Hello, i'm Mark</span></p>
-  <p align="center"><span style="color:white">I am currently studying computer science.</span></p>
+  <h1 align="center"><span style="color:Green">Hello, i'm Mark</span></h1>
+  ---
+  <h3 align="center"><span style="color:Red">I am currently studying computer science.</span></h3>
 </div>
 
 <!---

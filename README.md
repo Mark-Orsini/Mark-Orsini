@@ -4,7 +4,7 @@
 ---
 
 <div style="background-color: black; padding: 10px; border-radius: 5px;">
-  <p align="center"><span style="color:white">Hello, i'm Mark</span></p>
+  <p align="center"><span style="color:red">Hello, i'm Mark</span></p>
   <p align="center"><span style="color:white">I am currently studying computer science.</span></p>
 </div>
 

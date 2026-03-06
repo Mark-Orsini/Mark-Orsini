@@ -1,31 +1,101 @@
-<h2 align="center">Hi there! I'm Mark...</h2>
+<!-- Header Section -->
+<h1 align="center">
+  Hi there, I'm Mark! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px" alt="Waving Hand">
+</h1>
 
-###
+<h3 align="center">Software Developer | Problem Solver | Tech Enthusiast</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Development;Crafting+Elegant+Solutions;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="hackerrank logo"  />
-</div>
+<p align="center">
+  Welcome to my GitHub profile! I am passionate about building scalable applications and creating beautiful user experiences. I love combining logic with creativity to solve complex problems. Let's build something awesome together! 🚀
+</p>
 
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **exciting software projects**
+- 🌱 I’m currently learning about **Software Architecture and Cloud Technologies**
+- 💬 Ask me about **Python, C#, JavaScript, and Web Development**
+- ⚡ Fun fact: **I love automating the boring stuff and writing clean code!**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <strong>Programming Languages</strong><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
+</p>
+
+<p align="center">
+  <strong>Frameworks & Databases</strong><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="Django" title="Django" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite" title="SQLite" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+Discover some of my recent work below:
+
+| 🏆 Project | 📜 Description | 🛠️ Technologies | 🔗 Link |
+| :--- | :--- | :--- | :--- |
+| **[Project Name 1]** | A brief and engaging description of what this project does and the problem it attempts to solve. | `Python`, `Django` | [View Repository](#) |
+| **[Project Name 2]** | Highlight the main features or the most interesting technical challenge you solved here. | `C#`, `SQL` | [View Repository](#) |
+| **[Project Name 3]** | Another awesome application showcasing your frontend or full-stack skills. | `HTML/CSS/JS` | [View Repository](#) |
+
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mark-Orsini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mark's GitHub stats" />
+  <img width="10" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Orsini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mark's Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out to me for collaborations, questions, or just to say hi!
+
+<p align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Send me an email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect on LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/your_discord_id">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Chat on Discord" />
+  </a>
+  <a href="https://www.hackerrank.com/your_username">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" title="View my HackerRank profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</p>

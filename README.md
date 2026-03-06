@@ -82,7 +82,7 @@ Discover some of my recent work below:
 Feel free to reach out to me for collaborations, questions, or just to say hi!
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:markorsini11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Send me an email" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
@@ -91,7 +91,7 @@ Feel free to reach out to me for collaborations, questions, or just to say hi!
   <a href="https://discordapp.com/users/your_discord_id">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Chat on Discord" />
   </a>
-  <a href="https://www.hackerrank.com/your_username">
+  <a href="https://www.hackerrank.com/profile/markorsini11">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" title="View my HackerRank profile" />
   </a>
 </p>

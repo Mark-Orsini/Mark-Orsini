@@ -70,9 +70,9 @@ Discover some of my recent work below:
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mark-Orsini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mark's GitHub stats" />
-  <img width="10" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Orsini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mark's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mark-Orsini&theme=tokyonight" alt="GitHub stats" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mark-Orsini&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

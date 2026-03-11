@@ -53,7 +53,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 🚀 Featured Projects
 
 Discover some of my recent work below:
@@ -63,7 +63,7 @@ Discover some of my recent work below:
 | **[Project Name 1]** | A brief and engaging description of what this project does and the problem it attempts to solve. | `Python`, `Django` | [View Repository](#) |
 | **[Project Name 2]** | Highlight the main features or the most interesting technical challenge you solved here. | `C#`, `SQL` | [View Repository](#) |
 | **[Project Name 3]** | Another awesome application showcasing your frontend or full-stack skills. | `HTML/CSS/JS` | [View Repository](#) |
-
+ -->
 
 ---
 
@@ -85,12 +85,12 @@ Feel free to reach out to me for collaborations, questions, or just to say hi!
   <a href="mailto:markorsini11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Send me an email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <!-- <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect on LinkedIn" />
   </a>
   <a href="https://discordapp.com/users/your_discord_id">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Chat on Discord" />
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/profile/markorsini11">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" title="View my HackerRank profile" />
   </a>

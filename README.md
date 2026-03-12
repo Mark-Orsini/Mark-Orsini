@@ -53,17 +53,15 @@
 </p>
 
 ---
-<!-- 
 ### 🚀 Featured Projects
 
 Discover some of my recent work below:
 
 | 🏆 Project | 📜 Description | 🛠️ Technologies | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **[Project Name 1]** | A brief and engaging description of what this project does and the problem it attempts to solve. | `Python`, `Django` | [View Repository](#) |
+| **[Store Templates](https://github.com/Mark-Orsini/Store_templates)** | Professional and modern store templates designed with a focus on visual excellence and responsiveness. | `HTML5`, `CSS3`, `JavaScript` | [View Repository](https://github.com/Mark-Orsini/Store_templates) |
 | **[Project Name 2]** | Highlight the main features or the most interesting technical challenge you solved here. | `C#`, `SQL` | [View Repository](#) |
 | **[Project Name 3]** | Another awesome application showcasing your frontend or full-stack skills. | `HTML/CSS/JS` | [View Repository](#) |
- -->
 
 ---
 
